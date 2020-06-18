@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Selenium", "WPF_Selenium\WPF_Selenium.csproj", "{423322A8-D5BA-48BF-B46E-11FCA7D2D4C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423322A8-D5BA-48BF-B46E-11FCA7D2D4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423322A8-D5BA-48BF-B46E-11FCA7D2D4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423322A8-D5BA-48BF-B46E-11FCA7D2D4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423322A8-D5BA-48BF-B46E-11FCA7D2D4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F65F39EE-3733-4C2D-990A-C05A498A6353}
+	EndGlobalSection
+EndGlobal
